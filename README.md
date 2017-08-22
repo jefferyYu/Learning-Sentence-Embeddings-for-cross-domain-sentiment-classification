@@ -12,12 +12,19 @@ https://aclweb.org/anthology/D/D16/D16-1023.pdf
 I. Data
 
 1. The data consists of five domains: the first two are movie domains, the latter three are respectively digital device, laptop and restaurant.
+
 2. The following is the summarization of all the data
+
        rt-polarity(MV1) & 10662& 18765 \\
+       
        stsa.binary(MV2) & 9613&  16186\\
+       
        custrev(CR) & 3770 & 5340\\
+       
        laptop(LT) & 1907 & 2837\\
+       
        restaurant(RT) & 1572  & 2930\\
+       
 3. Each domain's data is under the folder "preprocess codes//data", and the data with Part-of-speech taggings are under the folder "preprocess codes//tag_data".
 
 
