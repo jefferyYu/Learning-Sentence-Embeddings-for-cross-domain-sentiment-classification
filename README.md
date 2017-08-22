@@ -74,55 +74,11 @@ To run our Joint model (Joint in our paper), you can just run:
 
 sh run2.sh
 
+----------------------------------------training details----------------------------------------------------------
 Note that here we employ an alternating optimization approach for training our Joint model.
 
 In each epoch, we first use labeled source domain data to optimize all the model parameters (one sentence, one true label, two auxiliary labels), and then switch to using unlabeled target domain data to optimize the parameters corresponding to the auxiliary task (one sentence, two auxiliary labels).
 
-Part3: Results:
-
-The final results are as follows:
-
-	   NaiveNN	Joint
-	   
-stcu    73.7	75.8
-
-stla	80.2	82.9
-
-stre	80.5	84.6
-
-rtcu	71.7	75.7
-
-rtla	76.3	80.0
-
-rtre	77.6	81.9
-
-last	74.4	75.2
-
-lart    70.8	71.3
-
-lare    82.7	82.5
-
-lacu    80.8	81.6
-
-curt	69.3	68.7
-
-cula    85.1	86.2
-
-cure    84.3	83.0
-
-cust    73.3	73.1
-
-rert	71.4	72.1
-
-rela    82.7	83.4
-
-recu	75.9	75.3
-
-rest    77.1	77.6
-
-which is slightly different from the results we report in our paper. 
-The reason is that in our previous experiments, we use a random seed for both NaiveNN model and Joint Model. 
-But now for fair comparison, we set the seed in both models to the same value 1, which means that all the overlapped parameters in them will be initialized to the same value.
 
 Acknowledgements
 
