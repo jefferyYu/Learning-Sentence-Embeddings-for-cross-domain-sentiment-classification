@@ -1,0 +1,702 @@
+loading data...	
+data loaded!	
+vocab size: 	18230	
+vec size: 	300	
+==> fold 	1	
+500	
+hehe	
+epoch:	1	train perf:	76.458333333333	%, train2 perf 	62.78125	%, train3 perf 	62.34375	%, train4 perf 	69.653333333333	%, train5 perf 	73.6	%, val perf 	71.6	%, val2 perf 	82.2	%	%, val3 perf 	86.2	%	
+test perf 	67.278287461774	%	
+epoch:	2	train perf:	84.5625	%, train2 perf 	71.229166666667	%, train3 perf 	71.885416666667	%, train4 perf 	72.053333333333	%, train5 perf 	76.24	%, val perf 	75.6	%, val2 perf 	85.6	%	%, val3 perf 	89	%	
+test perf 	73.241590214067	%	
+epoch:	3	train perf:	88.8125	%, train2 perf 	74.635416666667	%, train3 perf 	75.416666666667	%, train4 perf 	74.613333333333	%, train5 perf 	77.52	%, val perf 	75.2	%, val2 perf 	87.6	%	%, val3 perf 	89.8	%	
+test perf 	72.782874617737	%	
+epoch:	4	train perf:	91.65625	%, train2 perf 	76.791666666667	%, train3 perf 	78.0625	%, train4 perf 	76.933333333333	%, train5 perf 	80.4	%, val perf 	77.6	%, val2 perf 	88.6	%	%, val3 perf 	92.2	%	
+test perf 	75.749235474006	%	
+epoch:	5	train perf:	94.03125	%, train2 perf 	79.385416666667	%, train3 perf 	81	%, train4 perf 	78.586666666667	%, train5 perf 	82.773333333333	%, val perf 	77.2	%, val2 perf 	89.4	%	%, val3 perf 	94.6	%	
+test perf 	75.688073394495	%	
+epoch:	6	train perf:	95.364583333333	%, train2 perf 	80.8125	%, train3 perf 	83.666666666667	%, train4 perf 	79.866666666667	%, train5 perf 	84.08	%, val perf 	74.6	%, val2 perf 	92.2	%	%, val3 perf 	95.4	%	
+test perf 	73.241590214067	%	
+epoch:	7	train perf:	96.583333333333	%, train2 perf 	83.6875	%, train3 perf 	85.260416666667	%, train4 perf 	82.16	%, train5 perf 	85.626666666667	%, val perf 	75.2	%, val2 perf 	94.2	%	%, val3 perf 	95.8	%	
+test perf 	73.822629969419	%	
+epoch:	8	train perf:	97.09375	%, train2 perf 	85.854166666667	%, train3 perf 	86.854166666667	%, train4 perf 	83.146666666667	%, train5 perf 	86.746666666667	%, val perf 	74	%, val2 perf 	94.8	%	%, val3 perf 	96.4	%	
+test perf 	73.516819571865	%	
+epoch:	9	train perf:	98	%, train2 perf 	87.770833333333	%, train3 perf 	88.708333333333	%, train4 perf 	85.573333333333	%, train5 perf 	88.026666666667	%, val perf 	71.8	%, val2 perf 	95	%	%, val3 perf 	96.6	%	
+test perf 	71.529051987768	%	
+epoch:	10	train perf:	98.302083333333	%, train2 perf 	88.916666666667	%, train3 perf 	90.239583333333	%, train4 perf 	85.68	%, train5 perf 	90.213333333333	%, val perf 	74.2	%, val2 perf 	97	%	%, val3 perf 	97.2	%	
+test perf 	73.822629969419	%	
+best dev err:	77.6	%, epoch 	4	
+test perf 	75.749235474006	%	
+dev scores:	
+{
+  1 : 0.776
+}
+average dev score: 	0.776	
+test scores:	
+{
+  1 : 0.75749235474006
+}
+average test score: 	0.75749235474006	
+loading data...	
+data loaded!	
+vocab size: 	17088	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	75.78125	%, train2 perf 	64.385416666667	%, train3 perf 	61.5	%, train4 perf 	67.368421052632	%, train5 perf 	66.684210526316	%, val perf 	82	%, val2 perf 	82.5	%	%, val3 perf 	81.5	%	
+test perf 	81.253661394259	%	
+epoch:	2	train perf:	84.333333333333	%, train2 perf 	71.8125	%, train3 perf 	71.96875	%, train4 perf 	72.684210526316	%, train5 perf 	72.894736842105	%, val perf 	81.5	%, val2 perf 	85.5	%	%, val3 perf 	80.5	%	
+test perf 	81.605155243117	%	
+epoch:	3	train perf:	88.833333333333	%, train2 perf 	74.979166666667	%, train3 perf 	76.770833333333	%, train4 perf 	75.368421052632	%, train5 perf 	76.526315789474	%, val perf 	83	%, val2 perf 	89	%	%, val3 perf 	85.5	%	
+test perf 	82.893966022261	%	
+epoch:	4	train perf:	91.4375	%, train2 perf 	77.40625	%, train3 perf 	78.8125	%, train4 perf 	78.736842105263	%, train5 perf 	77.315789473684	%, val perf 	83	%, val2 perf 	91.5	%	%, val3 perf 	87.5	%	
+test perf 	81.370826010545	%	
+epoch:	5	train perf:	93.489583333333	%, train2 perf 	80.145833333333	%, train3 perf 	81.791666666667	%, train4 perf 	79.684210526316	%, train5 perf 	80.473684210526	%, val perf 	81.5	%, val2 perf 	92.5	%	%, val3 perf 	93.5	%	
+test perf 	81.839484475688	%	
+epoch:	6	train perf:	95.40625	%, train2 perf 	81.989583333333	%, train3 perf 	83.71875	%, train4 perf 	81.421052631579	%, train5 perf 	82.210526315789	%, val perf 	83	%, val2 perf 	94	%	%, val3 perf 	93	%	
+test perf 	82.07381370826	%	
+epoch:	7	train perf:	96.479166666667	%, train2 perf 	83.989583333333	%, train3 perf 	86.010416666667	%, train4 perf 	81.578947368421	%, train5 perf 	85.263157894737	%, val perf 	80	%, val2 perf 	96.5	%	%, val3 perf 	95	%	
+test perf 	82.249560632689	%	
+epoch:	8	train perf:	97.552083333333	%, train2 perf 	86.03125	%, train3 perf 	87.645833333333	%, train4 perf 	84.473684210526	%, train5 perf 	85.736842105263	%, val perf 	82	%, val2 perf 	96	%	%, val3 perf 	96	%	
+test perf 	81.605155243117	%	
+epoch:	9	train perf:	97.989583333333	%, train2 perf 	87.90625	%, train3 perf 	90.0625	%, train4 perf 	85.315789473684	%, train5 perf 	87.052631578947	%, val perf 	81.5	%, val2 perf 	96	%	%, val3 perf 	95.5	%	
+test perf 	81.605155243117	%	
+epoch:	10	train perf:	98.364583333333	%, train2 perf 	88.979166666667	%, train3 perf 	90.739583333333	%, train4 perf 	86.526315789474	%, train5 perf 	88.052631578947	%, val perf 	82	%, val2 perf 	98.5	%	%, val3 perf 	98	%	
+test perf 	81.312243702402	%	
+best dev err:	83	%, epoch 	3	
+test perf 	82.893966022261	%	
+dev scores:	
+{
+  1 : 0.83
+}
+average dev score: 	0.83	
+test scores:	
+{
+  1 : 0.82893966022261
+}
+average test score: 	0.82893966022261	
+loading data...	
+data loaded!	
+vocab size: 	17158	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	75.9375	%, train2 perf 	67.46875	%, train3 perf 	61.3125	%, train4 perf 	70.129032258065	%, train5 perf 	71.548387096774	%, val perf 	82.5	%, val2 perf 	80	%	%, val3 perf 	84	%	
+test perf 	84.548104956268	%	
+epoch:	2	train perf:	84.1875	%, train2 perf 	74	%, train3 perf 	71.666666666667	%, train4 perf 	75.225806451613	%, train5 perf 	76.645161290323	%, val perf 	82	%, val2 perf 	88	%	%, val3 perf 	88.5	%	
+test perf 	83.965014577259	%	
+epoch:	3	train perf:	88.40625	%, train2 perf 	77.375	%, train3 perf 	76.697916666667	%, train4 perf 	76.838709677419	%, train5 perf 	79.41935483871	%, val perf 	81.5	%, val2 perf 	87	%	%, val3 perf 	89.5	%	
+test perf 	83.163265306122	%	
+epoch:	4	train perf:	91.677083333333	%, train2 perf 	79.8125	%, train3 perf 	80.53125	%, train4 perf 	79.225806451613	%, train5 perf 	80.322580645161	%, val perf 	82	%, val2 perf 	89	%	%, val3 perf 	92.5	%	
+test perf 	83.309037900875	%	
+epoch:	5	train perf:	93.802083333333	%, train2 perf 	81.739583333333	%, train3 perf 	82.71875	%, train4 perf 	80.838709677419	%, train5 perf 	83.354838709677	%, val perf 	81.5	%, val2 perf 	92	%	%, val3 perf 	94	%	
+test perf 	81.34110787172	%	
+epoch:	6	train perf:	95.4375	%, train2 perf 	83.6875	%, train3 perf 	85.364583333333	%, train4 perf 	83.032258064516	%, train5 perf 	85.161290322581	%, val perf 	81.5	%, val2 perf 	96	%	%, val3 perf 	95.5	%	
+test perf 	81.997084548105	%	
+epoch:	7	train perf:	96.447916666667	%, train2 perf 	85.822916666667	%, train3 perf 	87.0625	%, train4 perf 	83.806451612903	%, train5 perf 	86.774193548387	%, val perf 	82	%, val2 perf 	93.5	%	%, val3 perf 	95	%	
+test perf 	81.268221574344	%	
+epoch:	8	train perf:	97.354166666667	%, train2 perf 	87.572916666667	%, train3 perf 	88.854166666667	%, train4 perf 	86	%, train5 perf 	87.741935483871	%, val perf 	82	%, val2 perf 	96.5	%	%, val3 perf 	96	%	
+test perf 	81.851311953353	%	
+epoch:	9	train perf:	98.072916666667	%, train2 perf 	89.09375	%, train3 perf 	90.270833333333	%, train4 perf 	87.806451612903	%, train5 perf 	89.612903225806	%, val perf 	79.5	%, val2 perf 	96	%	%, val3 perf 	98	%	
+test perf 	80.97667638484	%	
+epoch:	10	train perf:	98.25	%, train2 perf 	90.375	%, train3 perf 	92	%, train4 perf 	88.451612903226	%, train5 perf 	89.806451612903	%, val perf 	81	%, val2 perf 	97	%	%, val3 perf 	97.5	%	
+test perf 	80.685131195335	%	
+best dev err:	82.5	%, epoch 	1	
+test perf 	84.548104956268	%	
+dev scores:	
+{
+  1 : 0.825
+}
+average dev score: 	0.825	
+test scores:	
+{
+  1 : 0.84548104956268
+}
+average test score: 	0.84548104956268	
+loading data...	
+data loaded!	
+vocab size: 	20671	
+vec size: 	300	
+==> fold 	1	
+500	
+hehe	
+epoch:	1	train perf:	72.244131455399	%, train2 perf 	62.413145539906	%, train3 perf 	60.619718309859	%, train4 perf 	66.666666666667	%, train5 perf 	75.093333333333	%, val perf 	74.2	%, val2 perf 	79	%	%, val3 perf 	88.8	%	
+test perf 	72.813455657492	%	
+epoch:	2	train perf:	80.49765258216	%, train2 perf 	71.361502347418	%, train3 perf 	70.929577464789	%, train4 perf 	70.64	%, train5 perf 	78.426666666667	%, val perf 	76.8	%, val2 perf 	82.8	%	%, val3 perf 	90.4	%	
+test perf 	74.311926605505	%	
+epoch:	3	train perf:	84.572769953052	%, train2 perf 	74.976525821596	%, train3 perf 	74.272300469484	%, train4 perf 	72.693333333333	%, train5 perf 	79.6	%, val perf 	77	%, val2 perf 	84	%	%, val3 perf 	91.4	%	
+test perf 	75.565749235474	%	
+epoch:	4	train perf:	88.647887323944	%, train2 perf 	77.295774647887	%, train3 perf 	77.633802816901	%, train4 perf 	75.04	%, train5 perf 	80.64	%, val perf 	76.4	%, val2 perf 	84.8	%	%, val3 perf 	93.2	%	
+test perf 	73.94495412844	%	
+epoch:	5	train perf:	91.511737089202	%, train2 perf 	79.389671361502	%, train3 perf 	80.56338028169	%, train4 perf 	76.08	%, train5 perf 	82.8	%, val perf 	77	%, val2 perf 	89.2	%	%, val3 perf 	94.2	%	
+test perf 	75.963302752294	%	
+epoch:	6	train perf:	93.276995305164	%, train2 perf 	81.727699530516	%, train3 perf 	82.291079812207	%, train4 perf 	78.24	%, train5 perf 	84.826666666667	%, val perf 	75.8	%, val2 perf 	90.8	%	%, val3 perf 	95.8	%	
+test perf 	73.577981651376	%	
+epoch:	7	train perf:	95.004694835681	%, train2 perf 	83.549295774648	%, train3 perf 	84.394366197183	%, train4 perf 	79.733333333333	%, train5 perf 	85.2	%, val perf 	76.8	%, val2 perf 	92.8	%	%, val3 perf 	96.2	%	
+test perf 	74.587155963303	%	
+epoch:	8	train perf:	96.328638497653	%, train2 perf 	85.577464788732	%, train3 perf 	86.37558685446	%, train4 perf 	82.186666666667	%, train5 perf 	87.013333333333	%, val perf 	74.2	%, val2 perf 	92.8	%	%, val3 perf 	96.6	%	
+test perf 	71.681957186544	%	
+epoch:	9	train perf:	96.957746478873	%, train2 perf 	87.483568075117	%, train3 perf 	88.347417840376	%, train4 perf 	82.88	%, train5 perf 	87.2	%, val perf 	73.4	%, val2 perf 	94.4	%	%, val3 perf 	96.8	%	
+test perf 	72.293577981651	%	
+epoch:	10	train perf:	97.671361502347	%, train2 perf 	89.004694835681	%, train3 perf 	89.558685446009	%, train4 perf 	84.986666666667	%, train5 perf 	88.266666666667	%, val perf 	71	%, val2 perf 	95	%	%, val3 perf 	97	%	
+test perf 	69.449541284404	%	
+best dev err:	77	%, epoch 	3	
+test perf 	75.565749235474	%	
+dev scores:	
+{
+  1 : 0.77
+}
+average dev score: 	0.77	
+test scores:	
+{
+  1 : 0.75565749235474
+}
+average test score: 	0.75565749235474	
+loading data...	
+data loaded!	
+vocab size: 	19603	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	72.150234741784	%, train2 perf 	64.582159624413	%, train3 perf 	62.460093896714	%, train4 perf 	69.526315789474	%, train5 perf 	70.473684210526	%, val perf 	82	%, val2 perf 	83.5	%	%, val3 perf 	78	%	
+test perf 	80.609256004687	%	
+epoch:	2	train perf:	80.694835680751	%, train2 perf 	71.568075117371	%, train3 perf 	71.793427230047	%, train4 perf 	73.315789473684	%, train5 perf 	74.052631578947	%, val perf 	81	%, val2 perf 	88.5	%	%, val3 perf 	82.5	%	
+test perf 	80.66783831283	%	
+epoch:	3	train perf:	84.854460093897	%, train2 perf 	75.474178403756	%, train3 perf 	75.765258215962	%, train4 perf 	75.736842105263	%, train5 perf 	77.684210526316	%, val perf 	82.5	%, val2 perf 	90	%	%, val3 perf 	87	%	
+test perf 	79.964850615114	%	
+epoch:	4	train perf:	88.281690140845	%, train2 perf 	78.169014084507	%, train3 perf 	79.568075117371	%, train4 perf 	76.894736842105	%, train5 perf 	79.473684210526	%, val perf 	82	%, val2 perf 	90.5	%	%, val3 perf 	90	%	
+test perf 	79.613356766257	%	
+epoch:	5	train perf:	91.408450704225	%, train2 perf 	81.042253521127	%, train3 perf 	81.915492957746	%, train4 perf 	77.842105263158	%, train5 perf 	82.052631578947	%, val perf 	78	%, val2 perf 	90	%	%, val3 perf 	92.5	%	
+test perf 	75.922671353251	%	
+epoch:	6	train perf:	93.953051643192	%, train2 perf 	82.582159624413	%, train3 perf 	83.868544600939	%, train4 perf 	81.631578947368	%, train5 perf 	84	%, val perf 	75	%, val2 perf 	92	%	%, val3 perf 	93	%	
+test perf 	76.157000585823	%	
+epoch:	7	train perf:	95.276995305164	%, train2 perf 	84.816901408451	%, train3 perf 	86.657276995305	%, train4 perf 	82.684210526316	%, train5 perf 	85.052631578947	%, val perf 	74	%, val2 perf 	93	%	%, val3 perf 	96	%	
+test perf 	75.746924428822	%	
+epoch:	8	train perf:	96.657276995305	%, train2 perf 	86.769953051643	%, train3 perf 	88.197183098592	%, train4 perf 	82.842105263158	%, train5 perf 	86.315789473684	%, val perf 	75.5	%, val2 perf 	95	%	%, val3 perf 	96	%	
+test perf 	75.454012888108	%	
+epoch:	9	train perf:	97.070422535211	%, train2 perf 	88.553990610329	%, train3 perf 	90.159624413146	%, train4 perf 	85.789473684211	%, train5 perf 	87.947368421053	%, val perf 	74	%, val2 perf 	97	%	%, val3 perf 	96	%	
+test perf 	75.161101347393	%	
+epoch:	10	train perf:	97.605633802817	%, train2 perf 	89.896713615023	%, train3 perf 	91.62441314554	%, train4 perf 	86.578947368421	%, train5 perf 	88.421052631579	%, val perf 	74.5	%, val2 perf 	97	%	%, val3 perf 	97	%	
+test perf 	74.751025190393	%	
+best dev err:	82.5	%, epoch 	3	
+test perf 	79.964850615114	%	
+dev scores:	
+{
+  1 : 0.825
+}
+average dev score: 	0.825	
+test scores:	
+{
+  1 : 0.79964850615114
+}
+average test score: 	0.79964850615114	
+loading data...	
+data loaded!	
+vocab size: 	19686	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	72.140845070423	%, train2 perf 	65.455399061033	%, train3 perf 	61.577464788732	%, train4 perf 	65.483870967742	%, train5 perf 	72.129032258065	%, val perf 	80	%, val2 perf 	80	%	%, val3 perf 	84	%	
+test perf 	81.195335276968	%	
+epoch:	2	train perf:	80.600938967136	%, train2 perf 	71.915492957746	%, train3 perf 	72.422535211268	%, train4 perf 	71.741935483871	%, train5 perf 	75.225806451613	%, val perf 	82.5	%, val2 perf 	81.5	%	%, val3 perf 	85.5	%	
+test perf 	81.851311953353	%	
+epoch:	3	train perf:	85.596244131455	%, train2 perf 	75.201877934272	%, train3 perf 	76.037558685446	%, train4 perf 	74.193548387097	%, train5 perf 	74.645161290323	%, val perf 	82	%, val2 perf 	83	%	%, val3 perf 	90	%	
+test perf 	82.142857142857	%	
+epoch:	4	train perf:	88.582159624413	%, train2 perf 	77.802816901408	%, train3 perf 	78.206572769953	%, train4 perf 	76.709677419355	%, train5 perf 	78.451612903226	%, val perf 	77.5	%, val2 perf 	86	%	%, val3 perf 	91.5	%	
+test perf 	77.113702623907	%	
+epoch:	5	train perf:	91.577464788732	%, train2 perf 	79.859154929577	%, train3 perf 	80.816901408451	%, train4 perf 	79.548387096774	%, train5 perf 	79.935483870968	%, val perf 	81	%, val2 perf 	90	%	%, val3 perf 	91.5	%	
+test perf 	78.498542274052	%	
+epoch:	6	train perf:	93.380281690141	%, train2 perf 	82.901408450704	%, train3 perf 	83.69014084507	%, train4 perf 	81.612903225806	%, train5 perf 	81.806451612903	%, val perf 	78	%, val2 perf 	92	%	%, val3 perf 	94.5	%	
+test perf 	77.98833819242	%	
+epoch:	7	train perf:	95.305164319249	%, train2 perf 	84.976525821596	%, train3 perf 	85.633802816901	%, train4 perf 	83.612903225806	%, train5 perf 	82.387096774194	%, val perf 	75.5	%, val2 perf 	93	%	%, val3 perf 	96	%	
+test perf 	74.416909620991	%	
+epoch:	8	train perf:	96.065727699531	%, train2 perf 	86.732394366197	%, train3 perf 	87.755868544601	%, train4 perf 	85.290322580645	%, train5 perf 	84.322580645161	%, val perf 	80	%, val2 perf 	95	%	%, val3 perf 	97.5	%	
+test perf 	77.696793002915	%	
+epoch:	9	train perf:	97.230046948357	%, train2 perf 	88.253521126761	%, train3 perf 	89.361502347418	%, train4 perf 	85.290322580645	%, train5 perf 	88.967741935484	%, val perf 	82.5	%, val2 perf 	96	%	%, val3 perf 	96.5	%	
+test perf 	78.279883381924	%	
+epoch:	10	train perf:	97.821596244131	%, train2 perf 	90.469483568075	%, train3 perf 	90.544600938967	%, train4 perf 	86.645161290323	%, train5 perf 	85.935483870968	%, val perf 	77.5	%, val2 perf 	96.5	%	%, val3 perf 	97	%	
+test perf 	75.728862973761	%	
+best dev err:	82.5	%, epoch 	2	
+test perf 	81.851311953353	%	
+dev scores:	
+{
+  1 : 0.825
+}
+average dev score: 	0.825	
+test scores:	
+{
+  1 : 0.81851311953353
+}
+average test score: 	0.81851311953353	
+loading data...	
+data loaded!	
+vocab size: 	17088	
+vec size: 	300	
+==> fold 	1	
+1500	
+hehe	
+epoch:	1	train perf:	70.578947368421	%, train2 perf 	60.263157894737	%, train3 perf 	61.631578947368	%, train4 perf 	67.104166666667	%, train5 perf 	69.302083333333	%, val perf 	70.933333333333	%, val2 perf 	79	%	%, val3 perf 	77.533333333333	%	
+test perf 	71.071120424011	%	
+epoch:	2	train perf:	82.684210526316	%, train2 perf 	66	%, train3 perf 	73.368421052632	%, train4 perf 	72.5625	%, train5 perf 	74.65625	%, val perf 	75.866666666667	%, val2 perf 	84.466666666667	%	%, val3 perf 	83.466666666667	%	
+test perf 	74.670282263035	%	
+epoch:	3	train perf:	89.105263157895	%, train2 perf 	71.473684210526	%, train3 perf 	75.789473684211	%, train4 perf 	76.791666666667	%, train5 perf 	77.885416666667	%, val perf 	76.666666666667	%, val2 perf 	86.133333333333	%	%, val3 perf 	86.8	%	
+test perf 	74.584000986072	%	
+epoch:	4	train perf:	92.684210526316	%, train2 perf 	73.789473684211	%, train3 perf 	78.052631578947	%, train4 perf 	79.604166666667	%, train5 perf 	80.020833333333	%, val perf 	77.066666666667	%, val2 perf 	90.133333333333	%	%, val3 perf 	90.2	%	
+test perf 	75.187969924812	%	
+epoch:	5	train perf:	94.421052631579	%, train2 perf 	76.105263157895	%, train3 perf 	78.789473684211	%, train4 perf 	81.5625	%, train5 perf 	82.666666666667	%, val perf 	75.133333333333	%, val2 perf 	92	%	%, val3 perf 	92.666666666667	%	
+test perf 	74.744237643289	%	
+epoch:	6	train perf:	96.105263157895	%, train2 perf 	77.263157894737	%, train3 perf 	82.105263157895	%, train4 perf 	84.34375	%, train5 perf 	84.864583333333	%, val perf 	76.533333333333	%, val2 perf 	93.666666666667	%	%, val3 perf 	95.4	%	
+test perf 	75.150992234685	%	
+epoch:	7	train perf:	96.789473684211	%, train2 perf 	78.947368421053	%, train3 perf 	83.578947368421	%, train4 perf 	86.5	%, train5 perf 	86.375	%, val perf 	76.066666666667	%, val2 perf 	96.533333333333	%	%, val3 perf 	97	%	
+test perf 	74.73191174658	%	
+epoch:	8	train perf:	97.526315789474	%, train2 perf 	82.157894736842	%, train3 perf 	84.736842105263	%, train4 perf 	88.03125	%, train5 perf 	88.322916666667	%, val perf 	75.533333333333	%, val2 perf 	97.666666666667	%	%, val3 perf 	97.866666666667	%	
+test perf 	74.633304572908	%	
+epoch:	9	train perf:	98.157894736842	%, train2 perf 	82.473684210526	%, train3 perf 	86.789473684211	%, train4 perf 	89.989583333333	%, train5 perf 	90.020833333333	%, val perf 	76.066666666667	%, val2 perf 	98.2	%	%, val3 perf 	98.133333333333	%	
+test perf 	74.657956366326	%	
+epoch:	10	train perf:	98.947368421053	%, train2 perf 	84.157894736842	%, train3 perf 	88.157894736842	%, train4 perf 	90.75	%, train5 perf 	91.75	%, val perf 	75.4	%, val2 perf 	98.6	%	%, val3 perf 	98.733333333333	%	
+test perf 	74.251201774929	%	
+best dev err:	77.066666666667	%, epoch 	4	
+test perf 	75.187969924812	%	
+dev scores:	
+{
+  1 : 0.77066666666667
+}
+average dev score: 	0.77066666666667	
+test scores:	
+{
+  1 : 0.75187969924812
+}
+average test score: 	0.75187969924812	
+loading data...	
+data loaded!	
+vocab size: 	19603	
+vec size: 	300	
+==> fold 	1	
+1500	
+hehe	
+epoch:	1	train perf:	72.157894736842	%, train2 perf 	58.789473684211	%, train3 perf 	64.157894736842	%, train4 perf 	66.056338028169	%, train5 perf 	67.295774647887	%, val perf 	64.333333333333	%, val2 perf 	76.266666666667	%	%, val3 perf 	78.533333333333	%	
+test perf 	65.968129229426	%	
+epoch:	2	train perf:	84.052631578947	%, train2 perf 	67.210526315789	%, train3 perf 	72.157894736842	%, train4 perf 	72.225352112676	%, train5 perf 	73.323943661972	%, val perf 	69.4	%, val2 perf 	81.4	%	%, val3 perf 	83.066666666667	%	
+test perf 	70.388561449465	%	
+epoch:	3	train perf:	89.631578947368	%, train2 perf 	70.052631578947	%, train3 perf 	74.473684210526	%, train4 perf 	75.934272300469	%, train5 perf 	76.112676056338	%, val perf 	70	%, val2 perf 	84.2	%	%, val3 perf 	85.8	%	
+test perf 	71.338135778214	%	
+epoch:	4	train perf:	92.526315789474	%, train2 perf 	73.315789473684	%, train3 perf 	76.947368421053	%, train4 perf 	78.028169014084	%, train5 perf 	79.145539906103	%, val perf 	69.466666666667	%, val2 perf 	88.266666666667	%	%, val3 perf 	89.6	%	
+test perf 	71.305391835844	%	
+epoch:	5	train perf:	94.210526315789	%, train2 perf 	74.526315789474	%, train3 perf 	79.842105263158	%, train4 perf 	80.582159624413	%, train5 perf 	82.291079812207	%, val perf 	69.266666666667	%, val2 perf 	91.933333333333	%	%, val3 perf 	91.733333333333	%	
+test perf 	71.425452957869	%	
+epoch:	6	train perf:	96.631578947368	%, train2 perf 	76.157894736842	%, train3 perf 	79.736842105263	%, train4 perf 	83.399061032864	%, train5 perf 	83.671361502347	%, val perf 	68.533333333333	%, val2 perf 	92.933333333333	%	%, val3 perf 	94.4	%	
+test perf 	70.388561449465	%	
+epoch:	7	train perf:	97	%, train2 perf 	80.526315789474	%, train3 perf 	81.421052631579	%, train4 perf 	85.455399061033	%, train5 perf 	86.450704225352	%, val perf 	68.8	%, val2 perf 	95.066666666667	%	%, val3 perf 	96.466666666667	%	
+test perf 	70.366732154551	%	
+epoch:	8	train perf:	97.842105263158	%, train2 perf 	80.052631578947	%, train3 perf 	84.315789473684	%, train4 perf 	87.276995305164	%, train5 perf 	87.924882629108	%, val perf 	69.066666666667	%, val2 perf 	96.333333333333	%	%, val3 perf 	96.333333333333	%	
+test perf 	70.803318052827	%	
+epoch:	9	train perf:	98.526315789474	%, train2 perf 	81.315789473684	%, train3 perf 	85.578947368421	%, train4 perf 	89.079812206573	%, train5 perf 	89.943661971831	%, val perf 	69.866666666667	%, val2 perf 	97.666666666667	%	%, val3 perf 	97.533333333333	%	
+test perf 	70.977952412137	%	
+epoch:	10	train perf:	98.526315789474	%, train2 perf 	83.789473684211	%, train3 perf 	86.684210526316	%, train4 perf 	90.769953051643	%, train5 perf 	91.117370892019	%, val perf 	69	%, val2 perf 	98.133333333333	%	%, val3 perf 	97.933333333333	%	
+test perf 	70.639598340974	%	
+best dev err:	70	%, epoch 	3	
+test perf 	71.338135778214	%	
+dev scores:	
+{
+  1 : 0.7
+}
+average dev score: 	0.7	
+test scores:	
+{
+  1 : 0.71338135778214
+}
+average test score: 	0.71338135778214	
+loading data...	
+data loaded!	
+vocab size: 	4674	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	69.368421052632	%, train2 perf 	69.315789473684	%, train3 perf 	63.263157894737	%, train4 perf 	68.967741935484	%, train5 perf 	68	%, val perf 	82	%, val2 perf 	77	%	%, val3 perf 	83.5	%	
+test perf 	80.174927113703	%	
+epoch:	2	train perf:	85.315789473684	%, train2 perf 	71.842105263158	%, train3 perf 	73.736842105263	%, train4 perf 	69.483870967742	%, train5 perf 	77.161290322581	%, val perf 	83	%, val2 perf 	83.5	%	%, val3 perf 	90	%	
+test perf 	82.507288629738	%	
+epoch:	3	train perf:	90.210526315789	%, train2 perf 	75.736842105263	%, train3 perf 	79.368421052632	%, train4 perf 	75.612903225806	%, train5 perf 	81.548387096774	%, val perf 	82	%, val2 perf 	86.5	%	%, val3 perf 	95	%	
+test perf 	82.65306122449	%	
+epoch:	4	train perf:	92.421052631579	%, train2 perf 	78.473684210526	%, train3 perf 	81.684210526316	%, train4 perf 	80.322580645161	%, train5 perf 	84.258064516129	%, val perf 	81.5	%, val2 perf 	89	%	%, val3 perf 	96	%	
+test perf 	82.944606413994	%	
+epoch:	5	train perf:	95	%, train2 perf 	81.157894736842	%, train3 perf 	85.052631578947	%, train4 perf 	82.774193548387	%, train5 perf 	86.903225806452	%, val perf 	82	%, val2 perf 	95	%	%, val3 perf 	97	%	
+test perf 	83.527696793003	%	
+epoch:	6	train perf:	96.736842105263	%, train2 perf 	83.684210526316	%, train3 perf 	87.368421052632	%, train4 perf 	85.935483870968	%, train5 perf 	87.483870967742	%, val perf 	81	%, val2 perf 	96.5	%	%, val3 perf 	96.5	%	
+test perf 	82.871720116618	%	
+epoch:	7	train perf:	96.947368421053	%, train2 perf 	86.052631578947	%, train3 perf 	89.421052631579	%, train4 perf 	88.258064516129	%, train5 perf 	91.677419354839	%, val perf 	80	%, val2 perf 	94.5	%	%, val3 perf 	97.5	%	
+test perf 	82.507288629738	%	
+epoch:	8	train perf:	98.157894736842	%, train2 perf 	87.105263157895	%, train3 perf 	91.842105263158	%, train4 perf 	89.548387096774	%, train5 perf 	92.193548387097	%, val perf 	81	%, val2 perf 	97.5	%	%, val3 perf 	98.5	%	
+test perf 	82.142857142857	%	
+epoch:	9	train perf:	98.473684210526	%, train2 perf 	89.052631578947	%, train3 perf 	92.789473684211	%, train4 perf 	91.741935483871	%, train5 perf 	92.967741935484	%, val perf 	80.5	%, val2 perf 	98	%	%, val3 perf 	98.5	%	
+test perf 	81.559766763848	%	
+epoch:	10	train perf:	99.052631578947	%, train2 perf 	90.947368421053	%, train3 perf 	93.157894736842	%, train4 perf 	92.709677419355	%, train5 perf 	94.387096774194	%, val perf 	82	%, val2 perf 	98.5	%	%, val3 perf 	98	%	
+test perf 	82.288629737609	%	
+best dev err:	83	%, epoch 	2	
+test perf 	82.507288629738	%	
+dev scores:	
+{
+  1 : 0.83
+}
+average dev score: 	0.83	
+test scores:	
+{
+  1 : 0.82507288629738
+}
+average test score: 	0.82507288629738	
+loading data...	
+data loaded!	
+vocab size: 	6214	
+vec size: 	300	
+==> fold 	1	
+500	
+hehe	
+epoch:	1	train perf:	72.052631578947	%, train2 perf 	57.157894736842	%, train3 perf 	64.105263157895	%, train4 perf 	61.306666666667	%, train5 perf 	67.093333333333	%, val perf 	78.4	%, val2 perf 	78.6	%	%, val3 perf 	84.8	%	
+test perf 	77.920489296636	%	
+epoch:	2	train perf:	84.894736842105	%, train2 perf 	66.578947368421	%, train3 perf 	72.263157894737	%, train4 perf 	68.426666666667	%, train5 perf 	73.52	%, val perf 	81.8	%, val2 perf 	82.6	%	%, val3 perf 	89.2	%	
+test perf 	80.733944954128	%	
+epoch:	3	train perf:	90.894736842105	%, train2 perf 	70.157894736842	%, train3 perf 	76	%, train4 perf 	72.133333333333	%, train5 perf 	77.653333333333	%, val perf 	81.6	%, val2 perf 	87.2	%	%, val3 perf 	90.6	%	
+test perf 	80.336391437309	%	
+epoch:	4	train perf:	92.684210526316	%, train2 perf 	74.052631578947	%, train3 perf 	79.105263157895	%, train4 perf 	74.933333333333	%, train5 perf 	80.613333333333	%, val perf 	80.6	%, val2 perf 	90.8	%	%, val3 perf 	93.2	%	
+test perf 	80.672782874618	%	
+epoch:	5	train perf:	94.736842105263	%, train2 perf 	76.157894736842	%, train3 perf 	79.789473684211	%, train4 perf 	77.333333333333	%, train5 perf 	84.106666666667	%, val perf 	82	%, val2 perf 	91.4	%	%, val3 perf 	94.2	%	
+test perf 	81.559633027523	%	
+epoch:	6	train perf:	96.473684210526	%, train2 perf 	78.368421052632	%, train3 perf 	83.473684210526	%, train4 perf 	80.986666666667	%, train5 perf 	85.173333333333	%, val perf 	81	%, val2 perf 	93.2	%	%, val3 perf 	95.8	%	
+test perf 	80.733944954128	%	
+epoch:	7	train perf:	97.526315789474	%, train2 perf 	80.052631578947	%, train3 perf 	86	%, train4 perf 	82.106666666667	%, train5 perf 	87.306666666667	%, val perf 	80.4	%, val2 perf 	95	%	%, val3 perf 	97.4	%	
+test perf 	80.978593272171	%	
+epoch:	8	train perf:	98.210526315789	%, train2 perf 	82.263157894737	%, train3 perf 	86	%, train4 perf 	84.906666666667	%, train5 perf 	88.48	%, val perf 	81.6	%, val2 perf 	95.8	%	%, val3 perf 	97.6	%	
+test perf 	81.7125382263	%	
+epoch:	9	train perf:	98.736842105263	%, train2 perf 	83.210526315789	%, train3 perf 	86.315789473684	%, train4 perf 	86.586666666667	%, train5 perf 	90.213333333333	%, val perf 	81.8	%, val2 perf 	96.2	%	%, val3 perf 	97.4	%	
+test perf 	81.406727828746	%	
+epoch:	10	train perf:	99.105263157895	%, train2 perf 	85.263157894737	%, train3 perf 	88.631578947368	%, train4 perf 	87.76	%, train5 perf 	91.493333333333	%, val perf 	81	%, val2 perf 	98.2	%	%, val3 perf 	97.6	%	
+test perf 	80.825688073395	%	
+best dev err:	82	%, epoch 	5	
+test perf 	81.559633027523	%	
+dev scores:	
+{
+  1 : 0.82
+}
+average dev score: 	0.82	
+test scores:	
+{
+  1 : 0.81559633027523
+}
+average test score: 	0.81559633027523	
+loading data...	
+data loaded!	
+vocab size: 	20671	
+vec size: 	300	
+==> fold 	1	
+1500	
+hehe	
+epoch:	1	train perf:	71.653333333333	%, train2 perf 	60.8	%, train3 perf 	67.253333333333	%, train4 perf 	66.225352112676	%, train5 perf 	64.854460093897	%, val perf 	63.733333333333	%, val2 perf 	78.8	%	%, val3 perf 	77.466666666667	%	
+test perf 	65.804409517573	%	
+epoch:	2	train perf:	80.746666666667	%, train2 perf 	68.24	%, train3 perf 	75.066666666667	%, train4 perf 	72.413145539906	%, train5 perf 	71.333333333333	%, val perf 	67.666666666667	%, val2 perf 	81.933333333333	%	%, val3 perf 	80.8	%	
+test perf 	69.493560358	%	
+epoch:	3	train perf:	86.16	%, train2 perf 	70.72	%, train3 perf 	76.986666666667	%, train4 perf 	74.572769953052	%, train5 perf 	74.460093896714	%, val perf 	67.066666666667	%, val2 perf 	86	%	%, val3 perf 	83.4	%	
+test perf 	69.177035581751	%	
+epoch:	4	train perf:	88.453333333333	%, train2 perf 	73.04	%, train3 perf 	79.626666666667	%, train4 perf 	77.521126760563	%, train5 perf 	77.492957746479	%, val perf 	66.6	%, val2 perf 	87.8	%	%, val3 perf 	88.2	%	
+test perf 	68.052826893691	%	
+epoch:	5	train perf:	92.053333333333	%, train2 perf 	75.066666666667	%, train3 perf 	80.053333333333	%, train4 perf 	80.028169014085	%, train5 perf 	79.399061032864	%, val perf 	68.133333333333	%, val2 perf 	91.466666666667	%	%, val3 perf 	91.066666666667	%	
+test perf 	68.707705741105	%	
+epoch:	6	train perf:	92.826666666667	%, train2 perf 	77.12	%, train3 perf 	82.613333333333	%, train4 perf 	82.516431924883	%, train5 perf 	82.215962441315	%, val perf 	67	%, val2 perf 	93.8	%	%, val3 perf 	92.8	%	
+test perf 	68.292949137743	%	
+epoch:	7	train perf:	94.4	%, train2 perf 	78.693333333333	%, train3 perf 	84.186666666667	%, train4 perf 	84.920187793427	%, train5 perf 	84.384976525822	%, val perf 	67.466666666667	%, val2 perf 	95.666666666667	%	%, val3 perf 	94.866666666667	%	
+test perf 	68.12922942589	%	
+epoch:	8	train perf:	96.16	%, train2 perf 	81.333333333333	%, train3 perf 	85.12	%, train4 perf 	86.431924882629	%, train5 perf 	87.117370892019	%, val perf 	66.666666666667	%, val2 perf 	96.866666666667	%	%, val3 perf 	96.4	%	
+test perf 	68.958742632613	%	
+epoch:	9	train perf:	96.96	%, train2 perf 	81.84	%, train3 perf 	86.64	%, train4 perf 	88.30985915493	%, train5 perf 	88.469483568075	%, val perf 	67	%, val2 perf 	98.2	%	%, val3 perf 	97.4	%	
+test perf 	67.998253656407	%	
+epoch:	10	train perf:	97.333333333333	%, train2 perf 	84.453333333333	%, train3 perf 	87.226666666667	%, train4 perf 	89.680751173709	%, train5 perf 	89.699530516432	%, val perf 	67.533333333333	%, val2 perf 	98.266666666667	%	%, val3 perf 	97.533333333333	%	
+test perf 	68.533071381794	%	
+best dev err:	68.133333333333	%, epoch 	5	
+test perf 	68.707705741105	%	
+dev scores:	
+{
+  1 : 0.68133333333333
+}
+average dev score: 	0.68133333333333	
+test scores:	
+{
+  1 : 0.68707705741105
+}
+average test score: 	0.68707705741105	
+loading data...	
+data loaded!	
+vocab size: 	6214	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	72.373333333333	%, train2 perf 	59.253333333333	%, train3 perf 	65.68	%, train4 perf 	65.526315789474	%, train5 perf 	72.631578947368	%, val perf 	82	%, val2 perf 	75.5	%	%, val3 perf 	86	%	
+test perf 	84.299941417692	%	
+epoch:	2	train perf:	82.72	%, train2 perf 	66.666666666667	%, train3 perf 	74.293333333333	%, train4 perf 	71.526315789474	%, train5 perf 	76.578947368421	%, val perf 	84	%, val2 perf 	83.5	%	%, val3 perf 	89	%	
+test perf 	85.471587580551	%	
+epoch:	3	train perf:	87.12	%, train2 perf 	71.76	%, train3 perf 	77.28	%, train4 perf 	73.842105263158	%, train5 perf 	80.736842105263	%, val perf 	86	%, val2 perf 	85	%	%, val3 perf 	89.5	%	
+test perf 	86.115992970123	%	
+epoch:	4	train perf:	90.586666666667	%, train2 perf 	74.586666666667	%, train3 perf 	81.36	%, train4 perf 	76.315789473684	%, train5 perf 	84	%, val perf 	86.5	%, val2 perf 	88.5	%	%, val3 perf 	92	%	
+test perf 	85.881663737551	%	
+epoch:	5	train perf:	92.48	%, train2 perf 	77.76	%, train3 perf 	82.826666666667	%, train4 perf 	79.894736842105	%, train5 perf 	85.157894736842	%, val perf 	87	%, val2 perf 	91.5	%	%, val3 perf 	94	%	
+test perf 	85.764499121265	%	
+epoch:	6	train perf:	94.373333333333	%, train2 perf 	79.813333333333	%, train3 perf 	85.413333333333	%, train4 perf 	82.263157894737	%, train5 perf 	88.210526315789	%, val perf 	87.5	%, val2 perf 	91.5	%	%, val3 perf 	94	%	
+test perf 	86.174575278266	%	
+epoch:	7	train perf:	96.053333333333	%, train2 perf 	82.08	%, train3 perf 	86.746666666667	%, train4 perf 	84.105263157895	%, train5 perf 	88.315789473684	%, val perf 	86.5	%, val2 perf 	92	%	%, val3 perf 	96	%	
+test perf 	85.588752196837	%	
+epoch:	8	train perf:	96.64	%, train2 perf 	84.986666666667	%, train3 perf 	89.466666666667	%, train4 perf 	84.631578947368	%, train5 perf 	90	%, val perf 	84	%, val2 perf 	94.5	%	%, val3 perf 	97.5	%	
+test perf 	85.295840656122	%	
+epoch:	9	train perf:	97.6	%, train2 perf 	86.853333333333	%, train3 perf 	89.386666666667	%, train4 perf 	87	%, train5 perf 	91.684210526316	%, val perf 	84	%, val2 perf 	95	%	%, val3 perf 	96	%	
+test perf 	84.710017574692	%	
+epoch:	10	train perf:	98.16	%, train2 perf 	87.92	%, train3 perf 	91.173333333333	%, train4 perf 	88.315789473684	%, train5 perf 	91.684210526316	%, val perf 	85	%, val2 perf 	95	%	%, val3 perf 	96	%	
+test perf 	85.413005272408	%	
+best dev err:	87.5	%, epoch 	6	
+test perf 	86.174575278266	%	
+dev scores:	
+{
+  1 : 0.875
+}
+average dev score: 	0.875	
+test scores:	
+{
+  1 : 0.86174575278266
+}
+average test score: 	0.86174575278266	
+loading data...	
+data loaded!	
+vocab size: 	6827	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	72.453333333333	%, train2 perf 	61.146666666667	%, train3 perf 	62	%, train4 perf 	66	%, train5 perf 	66.387096774194	%, val perf 	78.5	%, val2 perf 	73.5	%	%, val3 perf 	86.5	%	
+test perf 	81.34110787172	%	
+epoch:	2	train perf:	81.413333333333	%, train2 perf 	69.146666666667	%, train3 perf 	74.133333333333	%, train4 perf 	73.096774193548	%, train5 perf 	73.612903225806	%, val perf 	82.5	%, val2 perf 	81	%	%, val3 perf 	89	%	
+test perf 	83.965014577259	%	
+epoch:	3	train perf:	87.173333333333	%, train2 perf 	72.853333333333	%, train3 perf 	79.92	%, train4 perf 	76.645161290323	%, train5 perf 	79.677419354839	%, val perf 	84	%, val2 perf 	89	%	%, val3 perf 	91.5	%	
+test perf 	83.600583090379	%	
+epoch:	4	train perf:	90.373333333333	%, train2 perf 	76.08	%, train3 perf 	82.133333333333	%, train4 perf 	80.516129032258	%, train5 perf 	83.161290322581	%, val perf 	83	%, val2 perf 	90.5	%	%, val3 perf 	94	%	
+test perf 	83.163265306122	%	
+epoch:	5	train perf:	92.426666666667	%, train2 perf 	80.053333333333	%, train3 perf 	85.04	%, train4 perf 	81.870967741935	%, train5 perf 	85.290322580645	%, val perf 	84	%, val2 perf 	93	%	%, val3 perf 	94.5	%	
+test perf 	83.090379008746	%	
+epoch:	6	train perf:	94.746666666667	%, train2 perf 	82.666666666667	%, train3 perf 	86.88	%, train4 perf 	85.354838709677	%, train5 perf 	87.806451612903	%, val perf 	84.5	%, val2 perf 	96.5	%	%, val3 perf 	96.5	%	
+test perf 	82.580174927114	%	
+epoch:	7	train perf:	96	%, train2 perf 	84.826666666667	%, train3 perf 	88.56	%, train4 perf 	87.225806451613	%, train5 perf 	90.258064516129	%, val perf 	83.5	%, val2 perf 	96.5	%	%, val3 perf 	96.5	%	
+test perf 	83.454810495627	%	
+epoch:	8	train perf:	96.986666666667	%, train2 perf 	86.613333333333	%, train3 perf 	89.973333333333	%, train4 perf 	89.096774193548	%, train5 perf 	90.838709677419	%, val perf 	84.5	%, val2 perf 	96.5	%	%, val3 perf 	97	%	
+test perf 	82.798833819242	%	
+epoch:	9	train perf:	98.133333333333	%, train2 perf 	88.693333333333	%, train3 perf 	91.813333333333	%, train4 perf 	90.322580645161	%, train5 perf 	91.290322580645	%, val perf 	85.5	%, val2 perf 	98.5	%	%, val3 perf 	97	%	
+test perf 	83.01749271137	%	
+epoch:	10	train perf:	98.32	%, train2 perf 	88.933333333333	%, train3 perf 	92.72	%, train4 perf 	91.290322580645	%, train5 perf 	93.032258064516	%, val perf 	83.5	%, val2 perf 	98.5	%	%, val3 perf 	98	%	
+test perf 	83.163265306122	%	
+best dev err:	85.5	%, epoch 	9	
+test perf 	83.01749271137	%	
+dev scores:	
+{
+  1 : 0.855
+}
+average dev score: 	0.855	
+test scores:	
+{
+  1 : 0.8301749271137
+}
+average test score: 	0.8301749271137	
+loading data...	
+data loaded!	
+vocab size: 	18230	
+vec size: 	300	
+==> fold 	1	
+1500	
+hehe	
+epoch:	1	train perf:	72.826666666667	%, train2 perf 	60.16	%, train3 perf 	67.146666666667	%, train4 perf 	66.3125	%, train5 perf 	66.4375	%, val perf 	72.933333333333	%, val2 perf 	78.666666666667	%	%, val3 perf 	78.933333333333	%	
+test perf 	72.944656723777	%	
+epoch:	2	train perf:	81.546666666667	%, train2 perf 	69.333333333333	%, train3 perf 	75.093333333333	%, train4 perf 	71.9375	%, train5 perf 	72.104166666667	%, val perf 	73.066666666667	%, val2 perf 	82.866666666667	%	%, val3 perf 	81.466666666667	%	
+test perf 	73.75816590657	%	
+epoch:	3	train perf:	87.333333333333	%, train2 perf 	72.133333333333	%, train3 perf 	77.253333333333	%, train4 perf 	75.635416666667	%, train5 perf 	75.229166666667	%, val perf 	73.533333333333	%, val2 perf 	85.933333333333	%	%, val3 perf 	86.066666666667	%	
+test perf 	73.092567484284	%	
+epoch:	4	train perf:	90.613333333333	%, train2 perf 	74.24	%, train3 perf 	79.146666666667	%, train4 perf 	79.083333333333	%, train5 perf 	77.645833333333	%, val perf 	72.466666666667	%, val2 perf 	89.933333333333	%	%, val3 perf 	89.333333333333	%	
+test perf 	72.451620855417	%	
+epoch:	5	train perf:	92.24	%, train2 perf 	75.893333333333	%, train3 perf 	80.586666666667	%, train4 perf 	81.197916666667	%, train5 perf 	80.729166666667	%, val perf 	71.733333333333	%, val2 perf 	92.733333333333	%	%, val3 perf 	92.666666666667	%	
+test perf 	72.587205719216	%	
+epoch:	6	train perf:	93.92	%, train2 perf 	79.066666666667	%, train3 perf 	82.293333333333	%, train4 perf 	83.041666666667	%, train5 perf 	82.479166666667	%, val perf 	72.266666666667	%, val2 perf 	95.333333333333	%	%, val3 perf 	94.733333333333	%	
+test perf 	72.66116109947	%	
+epoch:	7	train perf:	95.813333333333	%, train2 perf 	80.853333333333	%, train3 perf 	84.88	%, train4 perf 	85.5625	%, train5 perf 	84.6875	%, val perf 	72.333333333333	%, val2 perf 	96.533333333333	%	%, val3 perf 	95.933333333333	%	
+test perf 	72.069518057439	%	
+epoch:	8	train perf:	96.266666666667	%, train2 perf 	82.133333333333	%, train3 perf 	85.6	%, train4 perf 	87.635416666667	%, train5 perf 	86.34375	%, val perf 	72.066666666667	%, val2 perf 	97.733333333333	%	%, val3 perf 	97.533333333333	%	
+test perf 	72.365339578454	%	
+epoch:	9	train perf:	97.706666666667	%, train2 perf 	83.493333333333	%, train3 perf 	86.746666666667	%, train4 perf 	89.541666666667	%, train5 perf 	88.375	%, val perf 	71.266666666667	%, val2 perf 	98.333333333333	%	%, val3 perf 	97.866666666667	%	
+test perf 	71.699741156169	%	
+epoch:	10	train perf:	97.52	%, train2 perf 	84.96	%, train3 perf 	88.4	%, train4 perf 	90.15625	%, train5 perf 	89.75	%, val perf 	72.133333333333	%, val2 perf 	98.333333333333	%	%, val3 perf 	98.466666666667	%	
+test perf 	72.821397756687	%	
+best dev err:	73.533333333333	%, epoch 	3	
+test perf 	73.092567484284	%	
+dev scores:	
+{
+  1 : 0.73533333333333
+}
+average dev score: 	0.73533333333333	
+test scores:	
+{
+  1 : 0.73092567484284
+}
+average test score: 	0.73092567484284	
+loading data...	
+data loaded!	
+vocab size: 	19686	
+vec size: 	300	
+==> fold 	1	
+1500	
+hehe	
+epoch:	1	train perf:	71.225806451613	%, train2 perf 	65.225806451613	%, train3 perf 	56.387096774194	%, train4 perf 	70.319248826291	%, train5 perf 	75.192488262911	%, val perf 	53.8	%, val2 perf 	82	%	%, val3 perf 	81.733333333333	%	
+test perf 	55.239030779306	%	
+epoch:	2	train perf:	83.548387096774	%, train2 perf 	69.483870967742	%, train3 perf 	71.354838709677	%, train4 perf 	77.267605633803	%, train5 perf 	77.718309859155	%, val perf 	64.2	%, val2 perf 	84.333333333333	%	%, val3 perf 	82.466666666667	%	
+test perf 	64.86574983628	%	
+epoch:	3	train perf:	89.612903225806	%, train2 perf 	72.774193548387	%, train3 perf 	74.064516129032	%, train4 perf 	80.647887323944	%, train5 perf 	81.539906103286	%, val perf 	67.533333333333	%, val2 perf 	88.533333333333	%	%, val3 perf 	86.333333333333	%	
+test perf 	67.769046059812	%	
+epoch:	4	train perf:	92.387096774194	%, train2 perf 	76.58064516129	%, train3 perf 	76.903225806452	%, train4 perf 	82.676056338028	%, train5 perf 	83.220657276995	%, val perf 	71.6	%, val2 perf 	90.066666666667	%	%, val3 perf 	90.066666666667	%	
+test perf 	72.113075747653	%	
+epoch:	5	train perf:	94.387096774194	%, train2 perf 	78.129032258065	%, train3 perf 	79.354838709677	%, train4 perf 	85.183098591549	%, train5 perf 	86.009389671362	%, val perf 	70.6	%, val2 perf 	94.466666666667	%	%, val3 perf 	94.133333333333	%	
+test perf 	71.807465618861	%	
+epoch:	6	train perf:	96.774193548387	%, train2 perf 	80.129032258065	%, train3 perf 	83.354838709677	%, train4 perf 	87.774647887324	%, train5 perf 	87.840375586854	%, val perf 	70.4	%, val2 perf 	96.133333333333	%	%, val3 perf 	94.933333333333	%	
+test perf 	70.825147347741	%	
+epoch:	7	train perf:	97.225806451613	%, train2 perf 	83.161290322581	%, train3 perf 	83.677419354839	%, train4 perf 	89.661971830986	%, train5 perf 	89.107981220657	%, val perf 	69.2	%, val2 perf 	96.8	%	%, val3 perf 	97.133333333333	%	
+test perf 	72.113075747653	%	
+epoch:	8	train perf:	98.193548387097	%, train2 perf 	84.451612903226	%, train3 perf 	85.548387096774	%, train4 perf 	90.835680751174	%, train5 perf 	91.295774647887	%, val perf 	69	%, val2 perf 	97.666666666667	%	%, val3 perf 	97.866666666667	%	
+test perf 	72.058502510369	%	
+epoch:	9	train perf:	98.516129032258	%, train2 perf 	85.741935483871	%, train3 perf 	87.225806451613	%, train4 perf 	91.971830985915	%, train5 perf 	92.319248826291	%, val perf 	69.866666666667	%, val2 perf 	97.8	%	%, val3 perf 	98.666666666667	%	
+test perf 	71.993014625628	%	
+epoch:	10	train perf:	98.838709677419	%, train2 perf 	88.387096774194	%, train3 perf 	88.387096774194	%, train4 perf 	93.154929577465	%, train5 perf 	93.568075117371	%, val perf 	69.466666666667	%, val2 perf 	98.066666666667	%	%, val3 perf 	99.2	%	
+test perf 	72.036673215455	%	
+best dev err:	71.6	%, epoch 	4	
+test perf 	72.113075747653	%	
+dev scores:	
+{
+  1 : 0.716
+}
+average dev score: 	0.716	
+test scores:	
+{
+  1 : 0.72113075747653
+}
+average test score: 	0.72113075747653	
+loading data...	
+data loaded!	
+vocab size: 	4674	
+vec size: 	300	
+==> fold 	1	
+200	
+hehe	
+epoch:	1	train perf:	74.58064516129	%, train2 perf 	71.935483870968	%, train3 perf 	57.870967741935	%, train4 perf 	69.052631578947	%, train5 perf 	68.842105263158	%, val perf 	55.5	%, val2 perf 	79.5	%	%, val3 perf 	83.5	%	
+test perf 	60.456942003515	%	
+epoch:	2	train perf:	85.032258064516	%, train2 perf 	74.967741935484	%, train3 perf 	72.709677419355	%, train4 perf 	72.473684210526	%, train5 perf 	75.842105263158	%, val perf 	76	%, val2 perf 	87	%	%, val3 perf 	85	%	
+test perf 	78.09021675454	%	
+epoch:	3	train perf:	90.451612903226	%, train2 perf 	76.129032258065	%, train3 perf 	78.451612903226	%, train4 perf 	77.315789473684	%, train5 perf 	80.315789473684	%, val perf 	81	%, val2 perf 	88.5	%	%, val3 perf 	88	%	
+test perf 	82.718219097832	%	
+epoch:	4	train perf:	92.387096774194	%, train2 perf 	78.645161290323	%, train3 perf 	81.032258064516	%, train4 perf 	78.526315789474	%, train5 perf 	83.894736842105	%, val perf 	80.5	%, val2 perf 	88	%	%, val3 perf 	93	%	
+test perf 	82.132396016403	%	
+epoch:	5	train perf:	95.032258064516	%, train2 perf 	82.516129032258	%, train3 perf 	84.516129032258	%, train4 perf 	81.947368421053	%, train5 perf 	84.842105263158	%, val perf 	83	%, val2 perf 	94.5	%	%, val3 perf 	95	%	
+test perf 	83.421206795548	%	
+epoch:	6	train perf:	97.161290322581	%, train2 perf 	84.58064516129	%, train3 perf 	85.290322580645	%, train4 perf 	84.578947368421	%, train5 perf 	88.421052631579	%, val perf 	81	%, val2 perf 	98	%	%, val3 perf 	97.5	%	
+test perf 	82.776801405975	%	
+epoch:	7	train perf:	97.354838709677	%, train2 perf 	85.548387096774	%, train3 perf 	88.387096774194	%, train4 perf 	85.631578947368	%, train5 perf 	89.736842105263	%, val perf 	82	%, val2 perf 	98.5	%	%, val3 perf 	99	%	
+test perf 	83.128295254833	%	
+epoch:	8	train perf:	97.677419354839	%, train2 perf 	88.516129032258	%, train3 perf 	90.903225806452	%, train4 perf 	87.421052631579	%, train5 perf 	91.263157894737	%, val perf 	81.5	%, val2 perf 	99	%	%, val3 perf 	99.5	%	
+test perf 	82.249560632689	%	
+epoch:	9	train perf:	98.58064516129	%, train2 perf 	89.225806451613	%, train3 perf 	91.741935483871	%, train4 perf 	88.421052631579	%, train5 perf 	91.736842105263	%, val perf 	80.5	%, val2 perf 	99	%	%, val3 perf 	99	%	
+test perf 	82.425307557118	%	
+epoch:	10	train perf:	98.774193548387	%, train2 perf 	91.161290322581	%, train3 perf 	90.967741935484	%, train4 perf 	89.368421052632	%, train5 perf 	93	%, val perf 	81.5	%, val2 perf 	99.5	%	%, val3 perf 	100	%	
+test perf 	82.015231400117	%	
+best dev err:	83	%, epoch 	5	
+test perf 	83.421206795548	%	
+dev scores:	
+{
+  1 : 0.83
+}
+average dev score: 	0.83	
+test scores:	
+{
+  1 : 0.83421206795548
+}
+average test score: 	0.83421206795548	
+loading data...	
+data loaded!	
+vocab size: 	6827	
+vec size: 	300	
+==> fold 	1	
+500	
+hehe	
+epoch:	1	train perf:	72.58064516129	%, train2 perf 	67.41935483871	%, train3 perf 	56.516129032258	%, train4 perf 	63.76	%, train5 perf 	66.373333333333	%, val perf 	70	%, val2 perf 	80	%	%, val3 perf 	85.8	%	
+test perf 	69.296636085627	%	
+epoch:	2	train perf:	85.290322580645	%, train2 perf 	71.483870967742	%, train3 perf 	72.451612903226	%, train4 perf 	71.44	%, train5 perf 	75.066666666667	%, val perf 	78.2	%, val2 perf 	83.4	%	%, val3 perf 	91.8	%	
+test perf 	77.217125382263	%	
+epoch:	3	train perf:	90.129032258065	%, train2 perf 	76	%, train3 perf 	77.548387096774	%, train4 perf 	74.96	%, train5 perf 	80.16	%, val perf 	78	%, val2 perf 	89.8	%	%, val3 perf 	93.4	%	
+test perf 	77.522935779817	%	
+epoch:	4	train perf:	92.903225806452	%, train2 perf 	78.774193548387	%, train3 perf 	81.612903225806	%, train4 perf 	77.866666666667	%, train5 perf 	83.28	%, val perf 	76.4	%, val2 perf 	92	%	%, val3 perf 	95.8	%	
+test perf 	76.360856269113	%	
+epoch:	5	train perf:	95.225806451613	%, train2 perf 	80.193548387097	%, train3 perf 	84.774193548387	%, train4 perf 	82.32	%, train5 perf 	86.186666666667	%, val perf 	77.8	%, val2 perf 	94	%	%, val3 perf 	97	%	
+test perf 	76.788990825688	%	
+epoch:	6	train perf:	96.645161290323	%, train2 perf 	83.032258064516	%, train3 perf 	85.806451612903	%, train4 perf 	84.613333333333	%, train5 perf 	87.44	%, val perf 	75.2	%, val2 perf 	95.6	%	%, val3 perf 	97.6	%	
+test perf 	76.146788990826	%	
+epoch:	7	train perf:	98	%, train2 perf 	86.451612903226	%, train3 perf 	87.354838709677	%, train4 perf 	86.8	%, train5 perf 	89.92	%, val perf 	78.8	%, val2 perf 	96.6	%	%, val3 perf 	98	%	
+test perf 	77.492354740061	%	
+epoch:	8	train perf:	98.387096774194	%, train2 perf 	87.032258064516	%, train3 perf 	90.774193548387	%, train4 perf 	87.786666666667	%, train5 perf 	91.306666666667	%, val perf 	78.8	%, val2 perf 	97.4	%	%, val3 perf 	98.8	%	
+test perf 	77.37003058104	%	
+epoch:	9	train perf:	98.774193548387	%, train2 perf 	88.451612903226	%, train3 perf 	90.709677419355	%, train4 perf 	89.226666666667	%, train5 perf 	91.84	%, val perf 	79.2	%, val2 perf 	98.4	%	%, val3 perf 	99.6	%	
+test perf 	77.584097859327	%	
+epoch:	10	train perf:	99.41935483871	%, train2 perf 	89.41935483871	%, train3 perf 	92.516129032258	%, train4 perf 	90.8	%, train5 perf 	93.226666666667	%, val perf 	78.6	%, val2 perf 	98.4	%	%, val3 perf 	100	%	
+test perf 	77.522935779817	%	
+best dev err:	79.2	%, epoch 	9	
+test perf 	77.584097859327	%	
+dev scores:	
+{
+  1 : 0.792
+}
+average dev score: 	0.792	
+test scores:	
+{
+  1 : 0.77584097859327
+}
+average test score: 	0.77584097859327	
+loading data...	
+data loaded!	
+vocab size: 	17158	
+vec size: 	300	
+==> fold 	1	
+1500	
+hehe	
+epoch:	1	train perf:	72.903225806452	%, train2 perf 	65.032258064516	%, train3 perf 	61.354838709677	%, train4 perf 	72.0625	%, train5 perf 	76.40625	%, val perf 	59.733333333333	%, val2 perf 	85.266666666667	%	%, val3 perf 	84.8	%	
+test perf 	60.187353629977	%	
+epoch:	2	train perf:	84.516129032258	%, train2 perf 	70.322580645161	%, train3 perf 	73.161290322581	%, train4 perf 	77.65625	%, train5 perf 	80.28125	%, val perf 	62.866666666667	%, val2 perf 	89.733333333333	%	%, val3 perf 	88.933333333333	%	
+test perf 	62.282756070504	%	
+epoch:	3	train perf:	89.354838709677	%, train2 perf 	74.645161290323	%, train3 perf 	76.838709677419	%, train4 perf 	81.354166666667	%, train5 perf 	82.8125	%, val perf 	70.266666666667	%, val2 perf 	91.4	%	%, val3 perf 	91.866666666667	%	
+test perf 	70.799950696413	%	
+epoch:	4	train perf:	92.322580645161	%, train2 perf 	76.903225806452	%, train3 perf 	78.258064516129	%, train4 perf 	83.5625	%, train5 perf 	85.416666666667	%, val perf 	71	%, val2 perf 	92.666666666667	%	%, val3 perf 	93.933333333333	%	
+test perf 	70.2329594478	%	
+epoch:	5	train perf:	95.161290322581	%, train2 perf 	80.064516129032	%, train3 perf 	83.032258064516	%, train4 perf 	85.510416666667	%, train5 perf 	86.770833333333	%, val perf 	73.666666666667	%, val2 perf 	95.466666666667	%	%, val3 perf 	96.133333333333	%	
+test perf 	73.597929249353	%	
+epoch:	6	train perf:	95.741935483871	%, train2 perf 	82.193548387097	%, train3 perf 	85.483870967742	%, train4 perf 	87.697916666667	%, train5 perf 	88.833333333333	%, val perf 	75.733333333333	%, val2 perf 	96.466666666667	%	%, val3 perf 	96.133333333333	%	
+test perf 	75.150992234685	%	
+epoch:	7	train perf:	97.354838709677	%, train2 perf 	84.258064516129	%, train3 perf 	86.258064516129	%, train4 perf 	89.270833333333	%, train5 perf 	90.802083333333	%, val perf 	75.4	%, val2 perf 	97.733333333333	%	%, val3 perf 	97.8	%	
+test perf 	74.73191174658	%	
+epoch:	8	train perf:	97.161290322581	%, train2 perf 	85.483870967742	%, train3 perf 	87.290322580645	%, train4 perf 	90.458333333333	%, train5 perf 	91.916666666667	%, val perf 	74.133333333333	%, val2 perf 	98.066666666667	%	%, val3 perf 	98.133333333333	%	
+test perf 	73.869098976951	%	
+epoch:	9	train perf:	98.709677419355	%, train2 perf 	88.258064516129	%, train3 perf 	89.741935483871	%, train4 perf 	91.739583333333	%, train5 perf 	93.375	%, val perf 	76.266666666667	%, val2 perf 	98.066666666667	%	%, val3 perf 	98.866666666667	%	
+test perf 	75.311228891902	%	
+epoch:	10	train perf:	98.967741935484	%, train2 perf 	88.774193548387	%, train3 perf 	90.709677419355	%, train4 perf 	92.25	%, train5 perf 	93.958333333333	%, val perf 	75.933333333333	%, val2 perf 	98.933333333333	%	%, val3 perf 	98.933333333333	%	
+test perf 	75.902871933933	%	
+best dev err:	76.266666666667	%, epoch 	9	
+test perf 	75.311228891902	%	
+dev scores:	
+{
+  1 : 0.76266666666667
+}
+average dev score: 	0.76266666666667	
+test scores:	
+{
+  1 : 0.75311228891902
+}
+average test score: 	0.75311228891902	
