@@ -79,7 +79,9 @@ Note that here we employ an alternating optimization approach for training our J
 In each epoch, we first use labeled source domain data to optimize all the model parameters (one sentence, one true label, two auxiliary labels), and then switch to using unlabeled target domain data to optimize the parameters corresponding to the auxiliary task (one sentence, two auxiliary labels).
 
 Part3: Results:
+
 The final results are as follows:
+
 	   NaiveNN	Joint
 	   
 stcu    73.7	75.8
