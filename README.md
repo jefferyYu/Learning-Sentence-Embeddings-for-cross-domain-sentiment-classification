@@ -75,6 +75,7 @@ To run our Joint model (Joint in our paper), you can just run:
 sh run2.sh
 
 ----------------------------------------training details----------------------------------------------------------
+
 Note that here we employ an alternating optimization approach for training our Joint model.
 
 In each epoch, we first use labeled source domain data to optimize all the model parameters (one sentence, one true label, two auxiliary labels), and then switch to using unlabeled target domain data to optimize the parameters corresponding to the auxiliary task (one sentence, two auxiliary labels).
