@@ -11,6 +11,12 @@ Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Cla
 EMNLP 2016
 https://aclweb.org/anthology/D/D16/D16-1023.pdf
 
+## Requirements
+
+1. Python 2.7
+2. hdf5 (h5py)
+3. Torch7
+
 ## I. Data
 
 1. The data consists of five domains: the first two are movie domains, the latter three are respectively digital device, laptop and restaurant.
