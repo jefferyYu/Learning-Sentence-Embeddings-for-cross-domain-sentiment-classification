@@ -58,8 +58,6 @@ https://aclweb.org/anthology/D/D16/D16-1023.pdf
 
 ### Part1: Pre-process code (under the folder "preprocess codes"): 
 
-Run on Python 2.7, and the pipeline pre-process code requires Python package hdf5 (the h5py module)
-
 ##### Step 1. Obtain Pivot Word List
 
 ```
@@ -75,8 +73,6 @@ python preprocess_dasa_mt_2_2.py
 Note that before you run, you need to download word2vec vectors from here: https://code.google.com/archive/p/word2vec/  , and then set w2v_path in line 466.
 
 ### Part2: Model Code:
-
-Run on Torch7, and the training pipeline requires the lua package: hdf5
 
 To run the baseline (NaiveNN in our paper), you can just run:
 
