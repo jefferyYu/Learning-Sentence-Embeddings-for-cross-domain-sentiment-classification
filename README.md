@@ -56,7 +56,7 @@ https://aclweb.org/anthology/D/D16/D16-1023.pdf
  
 ## III. Code
 
-### Part1: Pre-process code(under the folder "preprocess codes"): 
+### Part1: Pre-process code (under the folder "preprocess codes"): 
 
 Run on Python 2.7, and the pipeline pre-process code requires Python package hdf5 (the h5py module)
 
