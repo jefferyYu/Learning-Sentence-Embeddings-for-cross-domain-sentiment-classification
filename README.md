@@ -51,9 +51,6 @@ https://aclweb.org/anthology/D/D16/D16-1023.pdf
    
    During test stage, we will use the trained model to tune on the development set (i.e., laptop.txtdev), and apply the best tuned model to test on the test set (i.e., laptop.txttest) 
  
-
-
- 
 ## III. Code
 
 ### Part1: Pre-process code (under the folder "preprocess codes"): 
@@ -85,6 +82,11 @@ To run our Joint model (Joint in our paper), you can just run:
 ```
 sh run2.sh
 ```
+
+### Part3: Results:
+- Our running results are shown in the two files "NaiveNNresult.txt" and "Jointresult.txt", which are slightly different from the results we report in our paper. 
+- The reason is that in our previous experiments, we use a random seed for both NaiveNN model and Joint Model. 
+But now for fair comparison, we set the seed in both models to the same value 1, which means that all the overlapped parameters in them will be initialized to the same value.
 
 ----------------------------------------training details----------------------------------------------------------
 
