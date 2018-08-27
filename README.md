@@ -61,17 +61,17 @@ python IG2.py
 python preprocess_dasa_mt_2_2.py
 ```
 
-Note that before you run, you need to download word2vec vectors from here: https://code.google.com/archive/p/word2vec/  , and then set w2v_path in line 466.
+- Note that before you run, you need to download word2vec vectors from here: https://code.google.com/archive/p/word2vec/  , and then set w2v_path in line 466.
 
 ### Part2: Model Code:
 
-To run the baseline (NaiveNN in our paper), you can just run:
+- To run the baseline (NaiveNN in our paper), you can just run:
 
 ```
 sh run1.sh
 ```
 
-To run our Joint model (Joint in our paper), you can just run:
+- To run our Joint model (Joint in our paper), you can just run:
 
 ```
 sh run2.sh
