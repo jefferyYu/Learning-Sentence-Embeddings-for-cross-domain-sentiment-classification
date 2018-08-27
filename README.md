@@ -39,17 +39,11 @@ https://aclweb.org/anthology/D/D16/D16-1023.pdf
 
 ## II. Evaluation 
 
-   For evaluation, we treat every source-target domain pair as a task, and hence have 18 tasks (The first two are not considered since they are both from movie domains).
+   - For evaluation, we treat every source-target domain pair as a task, and hence have 18 tasks (The first two are not considered since they are both from movie domains).
    
-   In our experiments, we use a Transductive Learning setting.
+   - In our experiments, we use a Transductive Learning setting. That is, we use the unlabeled data from both the development set and the test set in the target domain to train our model, and we only tune parameters on the development set in the target domain.
    
-   That is, we use the unlabeled data from both the development set and the test set in the target domain to train our model, and we only tune parameters on the development set in the target domain.
-   
-   For example, assume that the task is MV2->LT,
-   
-   During training stage, we will use labeled data from MV2 (i.e., stsa.binary.txt), and unlabeled data from LT (i.e., laptop.txtdev and laptop.txttest). Note that we cannot make use of labels from LT during training stage
-   
-   During test stage, we will use the trained model to tune on the development set (i.e., laptop.txtdev), and apply the best tuned model to test on the test set (i.e., laptop.txttest) 
+   - Example: assume that the task is MV2->LT. During training stage, we will use labeled data from MV2 (i.e., stsa.binary.txt), and unlabeled data from LT (i.e., laptop.txtdev and laptop.txttest). Note that we cannot make use of labels from LT during training stage. During test stage, we will use the trained model to tune on the development set (i.e., laptop.txtdev), and apply the best tuned model to test on the test set (i.e., laptop.txttest) 
  
 ## III. Code
 
@@ -90,16 +84,14 @@ But now for fair comparison, we set the seed in both models to the same value 1,
 
 ----------------------------------------training details----------------------------------------------------------
 
-Note that here we employ an alternating optimization approach for training our Joint model.
-
-In each epoch, we first use labeled source domain data to optimize all the model parameters (one sentence, one true label, two auxiliary labels), and then switch to using unlabeled target domain data to optimize the parameters corresponding to the auxiliary task (one sentence, two auxiliary labels).
+- Note that here we employ an alternating optimization approach for training our Joint model. In each epoch, we first use labeled source domain data to optimize all the model parameters (one sentence, one true label, two auxiliary labels), and then switch to using unlabeled target domain data to optimize the parameters corresponding to the auxiliary task (one sentence, two auxiliary labels).
 
 
 ## Acknowledgements
 
-Most of the code are based on the code by Harvard NLP group: https://github.com/harvardnlp/sent-conv-torch.
+- Most of the code are based on the code by Harvard NLP group: https://github.com/harvardnlp/sent-conv-torch.
 
-Using this code means you have read and accepted the copyrights set by the dataset providers.
+- Using this code means you have read and accepted the copyrights set by the dataset providers.
 
 # Licence:
 
