@@ -33,7 +33,7 @@ https://aclweb.org/anthology/D/D16/D16-1023.pdf
 
 
        
-3. Each domain's data is under the folder "preprocess codes//data", and the data with Part-of-speech taggings are under the folder "preprocess codes//tag_data".
+3. Each domain's data is under the folder "preprocess codes//data", and the data with Part-of-speech taggings are under the folder "preprocess codes/tag_data".
 
 
 
