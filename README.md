@@ -11,6 +11,10 @@ Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Cla
 EMNLP 2016
 https://aclweb.org/anthology/D/D16/D16-1023.pdf
 
+## Here is the link to the PyTorch Implementation of our CNN-Aux model (evaluate on the Amazon product review datasets)
+
+https://github.com/NUSTM/CNN-aux
+
 ## Requirements
 
 1. Python 2.7
